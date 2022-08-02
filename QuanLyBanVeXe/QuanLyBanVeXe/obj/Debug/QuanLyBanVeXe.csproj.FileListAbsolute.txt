@@ -1,0 +1,34 @@
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMain.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmDangNhap.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.pdb
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrNhanVien.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLTuyenXe.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLXe.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLBanVe.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmThongKe.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLVeDaBan.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLVe.resources
+C:\Users\PC\Documents\Công nghệ .NET\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.pdb
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLBanVe.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLTuyenXe.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLVe.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLVeDaBan.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrQLXe.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmDangNhap.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmMain.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ctrNhanVien.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.frmThongKe.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+C:\Users\Admin\Desktop\XayDungPhanMemBanVeXeKhach\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.Cache
